@@ -6,3 +6,5 @@ chromedriver
 venv
 __pycache__
 *.csv
+*.xlsx
+*.xls
